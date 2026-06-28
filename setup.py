@@ -7,7 +7,7 @@ setup(
     install_requires=[
         'pygame>=2.0.0',  # Version minimale recommandée
     ],
-    author='Loyam',
+    author='Loyam1',
     author_email='mayol.picard@gmx.fr',
     description='A library for displaying text more easily in PyGame',
     long_description_content_type='text/markdown',
