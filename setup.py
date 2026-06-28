@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
-        'pygame>=2.0.0',  # Version minimale recommandée
+        'pygame>=2.0.0',
     ],
     author='Loyam1',
     author_email='mayol.picard@gmx.fr',
@@ -21,7 +21,7 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: Microsoft :: Windows',
         'Operating System :: MacOS',
-        'Operating System :: POSIX :: Linux'
+        'Operating System :: POSIX :: Linux',
     ],
     python_requires='>=3.8',
 )
